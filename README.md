@@ -14,7 +14,7 @@ After weighting received local reputation, the overall reputation can be created
 
 Finally, the reputation can be calcualted by combining local reputation and overall reputation.
 
-More details can be found in [Multi-weight Subjective Logic]((https://arxiv.org/pdf/1809.08387.pdf))
+More details can be found in [Multi-weight Subjective Logic](https://arxiv.org/pdf/1809.08387.pdf)
 
 
 > How to run the code?
