@@ -1,4 +1,4 @@
-# Blockchain-empowered lifecycle AIGC product lifecycle manageent
+# Blockchain-empowered AIGC product lifecycle manageent in edge networks
 
 ## In this project, we implement:
 
