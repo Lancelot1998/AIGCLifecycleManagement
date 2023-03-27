@@ -36,3 +36,6 @@ More details can be found in [Multi-weight Subjective Logic](https://arxiv.org/p
 The blockchain is built atop [Blockchain Prototype](https://github.com/Lancelot1998/Space-structured_Blockchain)
 
 Still under refinement. The running instructions will be released soon.
+
+### Some important references/real-world examples:
+
