@@ -37,6 +37,6 @@ The blockchain is built atop [Blockchain Prototype](https://github.com/Lancelot1
 
 Still under refinement. The running instructions will be released soon.
 
-### Some important references/real-world examples:
+### 3. Some important references/real-world examples:
 1. The example of product ownership tampering: https://twitter.com/Kotaku/status/1580673031759765504
 2. The example of product copyright plagiarization: https://www.nftgators.com/fighting-bored-ape-yacht-club-fakes-banned-on-opensea/
