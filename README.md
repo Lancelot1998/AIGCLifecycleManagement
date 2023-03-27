@@ -40,3 +40,6 @@ Still under refinement. The running instructions will be released soon.
 ### 3. Some important references/real-world examples:
 1. The example of product ownership tampering: https://twitter.com/Kotaku/status/1580673031759765504
 2. The example of product copyright plagiarization: https://www.nftgators.com/fighting-bored-ape-yacht-club-fakes-banned-on-opensea/
+
+### 4. Image Similarity Check:
+1. phash: https://www.phash.org/
