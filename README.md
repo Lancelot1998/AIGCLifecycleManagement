@@ -43,3 +43,8 @@ Still under refinement. The running instructions will be released soon.
 
 ### 4. Image Similarity Check:
 1. phash: https://www.phash.org/
+
+### 5. The attacks towards AIGC products and the corresponding defenses.
+1) The prompt injection: https://simonwillison.net/2022/Sep/12/prompt-injection/ https://www.schneier.com/blog/archives/2023/03/prompt-injection-attacks-on-large-language-models.html https://arxiv.org/abs/2206.11349
+2) The DoS attacks: https://ieeexplore.ieee.org/document/7467419
+3) The pravicy leakage: https://ieeexplore.ieee.org/document/9450036
